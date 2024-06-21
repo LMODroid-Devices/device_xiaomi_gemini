@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_gemini.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_gemini-user \
-    lmodroid_gemini-userdebug \
-    lmodroid_gemini-eng
